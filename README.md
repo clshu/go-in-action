@@ -1,2 +1,2 @@
 # go-in-action
-Manning Go In ActionMatt Butcher
+Manning Go In Action by Matt Butcher
