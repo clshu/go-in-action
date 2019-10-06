@@ -22,3 +22,4 @@ goreturns
 # vendor/
 pkg/
 src/github.com/
+src/gopkg.in/
