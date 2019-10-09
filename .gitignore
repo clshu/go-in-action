@@ -20,7 +20,5 @@ goreturns
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-pkg/
-src/github.com/
-src/gopkg.in/
 *.gz
+.DS_Store
